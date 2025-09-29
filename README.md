@@ -4,7 +4,7 @@
 
 ---
 
-## 📖 Overview  
+## 📖 Overview  || link to my own VM with RHEL 7.8 preconfigured to host RAC and DataGuard setups! https://drive.google.com/file/d/1YL26mULTaeIyWAaoXxH2szhDDKEB0yZf/view?usp=drive_link
 
 This repository highlights my **hands-on Oracle Database Administration experience**, covering:  
 
